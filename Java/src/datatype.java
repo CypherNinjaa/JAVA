@@ -5,7 +5,7 @@ public class datatype {
         System.out.println("Byte value: " + b);
 
         // char
-        char ch = 'a';
+        char ch = 'v';
         System.out.println("Char value: " + ch);
 
         // boolean
