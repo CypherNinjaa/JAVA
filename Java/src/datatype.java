@@ -26,7 +26,7 @@ public class datatype {
 
         // double
         double preciseValue = 3.141592653589793;
-        System.out.println("Double value: " + preciseValue);
+        System.out.println("Double value: " + preciseValue);    
 
         // short
         short number = 240;
