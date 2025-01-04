@@ -17,6 +17,7 @@ public class input {
         System.out.println("Enter float value : ");
         //float input
         float num = sc.nextFloat();
+        
         System.out.println(num);
     }
 }
